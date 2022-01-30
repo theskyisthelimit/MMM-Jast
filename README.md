@@ -5,7 +5,7 @@
 This is a minimalistic stock ticker based on Yahoo's finance API for the [MagicMirror²](https://magicmirror.builders/) platform.  
 Click here for the Magic Mirror [Forum Thread](https://forum.magicmirror.builders/topic/12507/mmm-jast-just-another-stock-ticker).
 
-Contribution welcome..
+Contribution welcome.
 
 #### Support
 
@@ -39,7 +39,7 @@ Static
 1. Navigate to the `MagicMirror/modules` directory and execute the following command
 
    ```sh
-   git clone https://github.com/jalibu/MMM-Jast.git
+   git clone https://github.com/theskyisthelimit/MMM-Jast/.git
    ```
 
 2. Change into the MMM-Jast module folder and install runtime dependencies with
